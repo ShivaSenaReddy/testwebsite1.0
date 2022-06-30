@@ -1,14 +1,15 @@
 ﻿body {
-    width: 80%;
-    margin: 100px auto;
-    background-image: linear-gradient(to bottom right, red, blue);
+    
+    background-image: linear-gradient(147deg, aqua, blue);
+    background-repeat:no-repeat;
     background-size:cover;
-    background-repeat: no-repeat;
-    height: 1000px;
-   
+    height:2000px;
 }
 
-.Blog{
-    display:flex;
-    justify-content:center;
+.Blog {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    flex-grow:1;
 }
