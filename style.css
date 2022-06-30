@@ -1,0 +1,14 @@
+﻿body {
+    width: 80%;
+    margin: 100px auto;
+    background-image: linear-gradient(to bottom right, red, blue);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+   
+}
+
+.Blog{
+    display:flex;
+    justify-content:center;
+}
